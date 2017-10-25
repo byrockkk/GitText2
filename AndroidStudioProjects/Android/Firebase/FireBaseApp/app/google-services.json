@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "914865825399",
+    "firebase_url": "https://testfirebase-4dab4.firebaseio.com",
+    "project_id": "testfirebase-4dab4",
+    "storage_bucket": "testfirebase-4dab4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914865825399:android:04ca2589472df968",
+        "android_client_info": {
+          "package_name": "com.android.byron.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "914865825399-bf4qg9qm71cgqgfuefid4pdh9kp8hlib.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.byron.firebaseapp",
+            "certificate_hash": "93ae3d9ca66cb5184595484daea9227b90a269dc"
+          }
+        },
+        {
+          "client_id": "914865825399-uvon0sv4d9lrl0sm9oo6eeujj4t79go6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVZz3DYIQQr_K2EE_mCqWMR3JusmZMw5g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "914865825399-uvon0sv4d9lrl0sm9oo6eeujj4t79go6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
